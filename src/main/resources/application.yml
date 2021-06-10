@@ -1,0 +1,5 @@
+server:
+  port: 8081
+spring:  application:    name: covido  
+  mvc:    view:
+      prefix: /      suffix: .html
